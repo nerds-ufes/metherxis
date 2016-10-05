@@ -1,0 +1,1 @@
+cmd_/home/diego/git/metrix/pktgen/pktgen.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/diego/git/metrix/pktgen/pktgen.ko /home/diego/git/metrix/pktgen/pktgen.o /home/diego/git/metrix/pktgen/pktgen.mod.o
